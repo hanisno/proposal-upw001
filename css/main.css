@@ -98,7 +98,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
   html {
-    font-size: 16px;
+    font-size: 11px;
     font-family: Helvetica, sans-serif;
   }
   
@@ -160,7 +160,7 @@ textarea {
     transform: rotate(-90deg);
     text-transform: uppercase;
     font-size: 2em;
-    bottom: -160px;
+    bottom: -60px;
   }
 
   .sign-up {
